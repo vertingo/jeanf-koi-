@@ -12,6 +12,6 @@ Pour ajouter une platform:      `cordova platform add browser` ou `cordova platf
 
  
 
-Allez sur `http://localhost:4200/`.
+Allez sur `http://localhost:8000/index.html`.
 
 
