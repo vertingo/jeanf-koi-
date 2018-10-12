@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-07-14 14:32\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: pl_PL\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Wyszukiwanie w toku"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Skan"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Kod kreskowy: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Hasło:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Otrzymano zdjęcie, dziękuję!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "Baza danych jest aktualna."
+
+#: .msg_back
+msgid "Back"
+msgstr "Wstecz"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "Aktualizacja bazy danych w toku."
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Preferowany język:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Wyloguj się"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Szukaj produktu po nazwie lub marce:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Ładowanie produktu z bazy danych Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Witaj $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Parametry"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "Nazwa użytkownika:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "Więcej informacji"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "Przetwarzanie tekstu na mowę:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "Skanuj produkt telefonem"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Wysyłanie w toku"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "Zdjęcie nie zostało wysłane"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Łączenie nie powiodło się: brak sieci?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Ponów próbę"
+
+#: .msg_close
+msgid "Close"
+msgstr "Zamknij"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Zaloguj"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Łączenie"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Produkt nr"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Zaloguj się aby dodawać produkty lub edytować ich strony."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Szukaj"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Nie masz jeszcze konta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\"> Utwórz konto</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Dodaj produkt bez kodu kreskowego"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "Zeskanuj kod kreskowy aby znaleźć bądź dodać produkt."
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Zeskanuj kod kreskowy aby znaleźć bądź dodać produkt:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "Halo"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "Szukaj"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+

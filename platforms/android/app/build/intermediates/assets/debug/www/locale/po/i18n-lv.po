@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-04-25 03:33-0400\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Latvian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: lv\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: lv_LV\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Notiek meklēšana"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Skenēt"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Svītrkods: $ 1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Parole:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Attēls saņemts, paldies!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "Datubāze ir atjaunināta."
+
+#: .msg_back
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "Notiek Datu bāzes atjaunināšana."
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Vēlamā valoda:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Izrakstīties"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Meklēt produktu pēc nosaukuma vai firmas zīmes:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Ielādē Produktu no datubāzes \"Open Food Facts\""
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Čau $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Iestatījumi"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "Lietotājvārds:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "Vairāk informācijas"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "Teksta lasītājs:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "Skenējiet produktu tālruņa priekšā"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Notiek Sūtīšana"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "Attēlu nevarēja nosūtīt"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Neizdevās izveidot savienojumu: nav tīkla?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Atkārtot"
+
+#: .msg_close
+msgid "Close"
+msgstr "Aizvērt"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Ieiet"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Savienojas"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Produkts $ 1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Pierakstīties, lai pievienotu produktus vai rediģētu produktu lapas."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Meklēt"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Vēl nav konta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Izveidojiet kontu</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Pievienot produktu bez svītrkoda"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "Skenējiet svītrkodu, lai atrastu vai pievienotu produktu."
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Skenējiet svītrkodu, lai atrastu vai pievienotu produktu:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "Čau"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "Meklēt"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Nepareizs lietotājvārds vai parole"
+

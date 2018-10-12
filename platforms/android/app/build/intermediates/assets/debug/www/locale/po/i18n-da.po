@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-05-06 03:34-0400\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: da_DK\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Søgning i gang"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Skan"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Stregkode: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Adgangskode:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Foto modtaget, tak!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "Databasen er opdateret."
+
+#: .msg_back
+msgid "Back"
+msgstr "Tilbage"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "Databaseopdatering i gang."
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Foretrukket sprog:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Log ud"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Søg efter et produkt via navn eller mærke:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Indlæser produkt fra databasen Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Hej $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Parametre"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "Brugernavn:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "Yderligere info"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "Tekst-til-tale:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "Skan et produkt, der er foran mobilen"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Afsendelse i gang"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "Fotoet kunne ikke afsendes"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Tilslutning mislykkedes: Intet netværk?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Forsøg igen"
+
+#: .msg_close
+msgid "Close"
+msgstr "Luk"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Log ind"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Opretter forbindelse"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Produkt $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Log ind for at tilføje produkter eller redigere produktsider."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Søg"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Endnu ingen konto? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Opret en konto</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Tilføj et produkt uden stregkode"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "Skan stregkoden for at finde eller tilføje et produkt."
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Skan stregkoden for at finde eller tilføje et produkt:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "Hej"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "Søg"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Forkert brugernavn eller adgangskode"
+

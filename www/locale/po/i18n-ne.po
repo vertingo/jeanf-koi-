@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-04-25 03:32-0400\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Nepali\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: ne-NP\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: ne_NP\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "खोजीमा प्रगति"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "स्क्यान गर्नुहोस्"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "बारकोड: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "पासवर्ड:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "तस्विर प्राप्त भयो, धन्यवाद!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "डाटाबेस अद्यावधिक छ।"
+
+#: .msg_back
+msgid "Back"
+msgstr "पछाडि"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr ""
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "रुचाइएको भाषा:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "साइन आउट"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr ""
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr ""
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "नमस्ते $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "प्यारामिटरहरू"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "प्रयोगकर्ता नाम:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "थप जानकारी"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "पाठ वाचक:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "फोनबाट एउटा उत्पादन स्क्यान गर्नुहोस्"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "पठाउँदै प्रगति हुँदै छ"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "तस्विर पठाउन सकिएन"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "जडान असफल भयो: नेटवर्क छैन?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "पुन: प्रयास गर्नुहोस्"
+
+#: .msg_close
+msgid "Close"
+msgstr "बन्द गर्नुहोस्"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "साइन इन"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "जडान गर्दै"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "उत्पादन $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr ""
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "खोज्नुहोस्"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr ""
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr ""
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr ""
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr ""
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "नमस्ते"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "खोज्नुहोस्"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "नमिल्ने प्रयोगकर्तानाम वा पासवर्ड"
+

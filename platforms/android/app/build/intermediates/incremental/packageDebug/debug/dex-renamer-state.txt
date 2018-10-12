@@ -1,0 +1,4 @@
+#Fri Oct 12 00:09:31 CEST 2018
+base.0=C\:\\Users\\tedal\\OneDrive\\Bureau\\Projet Informatique\\Ionic Projet\\cordovaApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

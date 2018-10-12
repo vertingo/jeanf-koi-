@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-07-14 14:32\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: pt_BR\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "A procurar"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Escanear"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Código de barras: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Senha:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Imagem recebida, obrigado!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "O banco de dados está atualizado."
+
+#: .msg_back
+msgid "Back"
+msgstr "Voltar"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "Atualização do banco de dados em andamento."
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Idioma preferido:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Sair"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Pesquise um produto por nome ou marca:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Carregando o produto do banco de dados Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Olá $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Parâmetros"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "Nome de usuário:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "Mais informações"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "Texto para voz:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "Digitalize um produto em frente ao telefone"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Envio em andamento"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "A imagem não pôde ser enviada"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Conexão falhada: sem rede?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Repetir"
+
+#: .msg_close
+msgid "Close"
+msgstr "Fechar"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Iniciar sessão"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Conetando"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Produto $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Faça o login para adicionar produtos ou editar páginas de produtos."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Procurar"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Ainda não tem conta? <a href=\"https://pt.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crie uma conta</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Adicionar um produto sem código de barras"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "Digitalize o código de barras para encontrar ou adicionar um produto."
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Digitalize o código de barras para encontrar ou adicionar um produto:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "Olá!"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "Procurar"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Nome de usuário ou senha incorretos"
+

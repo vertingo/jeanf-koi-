@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-07-14 14:32\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Galician\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: gl\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: gl_ES\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Busca en proceso"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Analizar"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Código de barras: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Contrasinal:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Recibiuse a imaxe, grazas."
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "A base de datos está actualizada."
+
+#: .msg_back
+msgid "Back"
+msgstr "Volver"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "Actualización da base de datos en proceso."
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Idioma preferido:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Saír"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Procurar un produto polo nome ou a marca:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Cargando o produto da base de datos de Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Ola $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Parámetros"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "Nome de usuaria:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "Máis info"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "Texto a fala:"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "Escanee un produto enfronte ao móbil"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Envío en proceso"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "Non foi posíbel enviar a imaxe"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Fallou a conexión: non hai unha rede?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Tentar de novo"
+
+#: .msg_close
+msgid "Close"
+msgstr "Pechar"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Iniciar sesión"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Conectando"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Produto $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Iniciar sesión para engadir produtos ou editar as páxinas dos produtos."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Buscar"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Non ten conta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cree unha conta</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Engadir un produto sen o código de barras"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "Analizar o código de barras para atopar ou engadir un produto."
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Analizar o código de barras para atopar ou engadir un produto:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "Ola"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-gl.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts recolle información e datos sobre produtos alimenticios de todo o mundo nunha base de datos aberta e libre.</p>"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "Buscar"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Usuario ou contrasinal incorrecto"
+
