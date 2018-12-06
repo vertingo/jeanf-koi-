@@ -10,7 +10,8 @@ C'est un projet de type Cordova!
 ### 🌐 Prérequies
 Android SDK:
 
-[☛]https://android-sdk.fr.uptodown.com/windows
+[☛] https://android-sdk.fr.uptodown.com/windows
+
 ou si vous aves déjà Android Studio d'installé aller à:
 
 [☛] C:\Users\tedal\AppData\Local\Android\android-sdk (Executé android-sdk.exe)
