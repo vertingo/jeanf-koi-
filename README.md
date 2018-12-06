@@ -12,7 +12,7 @@ Android SDK:
 
 [☛] https://android-sdk.fr.uptodown.com/windows
 
-ou si vous aves déjà Android Studio d'installé aller à:
+ou si vous avez déjà Android Studio d'installé aller à:
 
 [☛] C:\Users\tedal\AppData\Local\Android\android-sdk (Executé android-sdk.exe)
 
