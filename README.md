@@ -13,11 +13,11 @@ Android SDK:
 [☛]https://android-sdk.fr.uptodown.com/windows
 ou si vous aves déjà Android Studio d'installé aller à:
 
-[☛] C:\Users\tedal\AppData\Local\Android\android-sdk (Execute android-sdk.exe)
+[☛] C:\Users\tedal\AppData\Local\Android\android-sdk (Executé android-sdk.exe)
 
-Java JDK :
+Java JDK:
+
 [☛] https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-
 
 ## 🌐 Developpement
 
